@@ -4,5 +4,5 @@
 * Dataset: https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset/data
 * Models implemented:
   * SVM (Accuracy: 82.35%)
-  * RandomForest (Accuracy: 85.62%)
-  * Neural Network (Accuracy: 85.84%)
+  * RandomForest (Accuracy: 85.84%)
+  * Neural Network (Accuracy: 85.62%)
