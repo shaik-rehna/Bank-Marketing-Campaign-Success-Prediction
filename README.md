@@ -1,3 +1,7 @@
+**EE 353 - Introduction to Data Science and Machine Learning, IIT Bombay**
+
+**Guide:** Prof. Amit Sethi
+
 # Bank Marketing Campaign Success Prediction
 
 ## Overview
